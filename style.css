@@ -1,0 +1,7 @@
+div#maintitle{background:blue;color:white;width:360px;padding:5px;margin:auto;otline:3px solid white}
+h2{color: blue;}
+a{outline:2px dashed blue;}
+img{width:75px;height:height:75px;}
+legend{color:white;background:#0000AA;}
+fieldset{padding:5px;margin:auto;outline:2px solid #0000AA;}
+div{color: black;outline:0px solid black;}
