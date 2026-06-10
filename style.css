@@ -1,4 +1,4 @@
-div#maintitle{;width:360px;padding:5px;margin:auto;outline:3px solid white}
+div#maintitle{padding:5px;margin:auto;outline:3px solid white}
 h2{color: blue;}
 a{outline:2px dashed blue;}
 img{width:75px;height:height:75px;}
@@ -12,4 +12,5 @@ div{color: black;outline:0px solid black;}
 @keyframes glowing {
     0% { background-position: 0 0; }
     50% { background-position: 400% 0; }
-    100% { background-positio
+    100% { background-position: 0 0;} 
+} 
