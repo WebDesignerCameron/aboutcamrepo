@@ -1,4 +1,4 @@
-div#maintitle{background:blue;color:white;width:360px;padding:5px;margin:auto;otline:3px solid white}
+div#maintitle{;width:360px;padding:5px;margin:auto;outline:3px solid white}
 h2{color: blue;}
 a{outline:2px dashed blue;}
 img{width:75px;height:height:75px;}
